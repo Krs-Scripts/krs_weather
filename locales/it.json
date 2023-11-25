@@ -1,0 +1,19 @@
+{
+    "title_menu_time": "CONDIZIONI METEO / ORARIO",
+    "title_time": "CAMBIA ORARIO",
+    "description_time": "In questo menu puoi modificare l'orario di gioco",
+    "title_weather": "CONDIZIONI METEO",
+    "description_weather": "In questo menu puoi cambiare le condizioni meteorologiche del gioco",
+    "title_weather_change": "Cambia Condizioni Meteo",
+    "title_time_change": "Cambia Orario",
+    "id_menu": "_menutime",
+
+    "title_notify": "KRS METEO",
+    "description_notify_admin": "Non hai il permesso di aprire il menu meteo",
+    "description_notify_time": "Orario non valido! Assicurati di inserire un orario corretto.",
+    "description_time_set": "Orario impostato a %02d:%02d",
+    "description_select_valid_weather": "Seleziona una condizione meteorologica valida.",
+    "description_weather_changed": "Condizioni meteorologiche cambiate: ",
+    "type_notify_error": "error",
+    "type_notify_success": "success"
+}

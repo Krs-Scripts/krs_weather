@@ -1,0 +1,19 @@
+{
+    "title_menu_time": "WEATHER CONDITIONS / TIME",
+    "title_time": "CHANGE TIME",
+    "description_time": "In this menu, you can adjust the game time.",
+    "title_weather": "WEATHER CONDITIONS",
+    "description_weather": "In this menu, you can alter the game's weather conditions.",
+    "title_weather_change": "Change Weather",
+    "title_time_change": "Change Time",
+    "id_menu": "_menutime",
+
+    "title_notify": "KRS WEATHER",
+    "description_notify_admin": "You do not have permission to open the weather menu",
+    "description_notify_time": "Invalid time! Make sure to enter a correct time.",
+    "description_time_set": "Time set to %02d:%02d",
+    "description_select_valid_weather": "Select a valid weather condition.",
+    "description_weather_changed": "Weather conditions changed: ",
+    "type_notify_error": "error",
+    "type_notify_success": "success"
+}
